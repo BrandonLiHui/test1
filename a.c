@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//version 1.0
 
 int main()
 {
